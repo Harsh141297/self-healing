@@ -1,0 +1,14 @@
+name: Canary Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy_canary:
+    runs-on: ubuntu-latest
+
+    - name: Execute canary deployment script
+      run: ~/udacity/nd087-c3-deployment-roulette/starter/apps/canary/canary.sh
+      shell: bash

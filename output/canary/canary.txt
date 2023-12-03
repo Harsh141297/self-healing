@@ -1,0 +1,40 @@
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 1</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 2</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 1</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 2</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 1</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 1</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 2</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 1</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 2</h1>
+</html>
+root@hello-world-c57f59b87-bv5kd:/app# curl 172.20.78.63
+<html>
+<h1>This is version 1</h1>
+</html>

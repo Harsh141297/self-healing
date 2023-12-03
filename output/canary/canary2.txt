@@ -1,0 +1,15 @@
+ harshit.choudhary@MacBook-Pro  ~/udacity/nd087-c3-deployment-roulette/starter/apps/canary   master ±  kubectl get pods --all-namespaces
+NAMESPACE     NAME                          READY   STATUS    RESTARTS   AGE
+kube-system   aws-node-gj5m6                1/1     Running   0          60m
+kube-system   aws-node-k76kl                1/1     Running   0          60m
+kube-system   coredns-5948f55769-6fxd9      1/1     Running   0          63m
+kube-system   coredns-5948f55769-z96lc      1/1     Running   0          63m
+kube-system   kube-proxy-nxj6k              1/1     Running   0          60m
+kube-system   kube-proxy-sg5qd              1/1     Running   0          60m
+udacity       blue-6b6b7cf74d-7hpv2         1/1     Running   0          54m
+udacity       blue-6b6b7cf74d-dc9vl         1/1     Running   0          54m
+udacity       blue-6b6b7cf74d-dhv59         1/1     Running   0          54m
+udacity       canary-v1-84676f5bb7-tvfpd    1/1     Running   0          54m
+udacity       canary-v2-7b4d74dcb9-ljflt    1/1     Running   0          5m53s
+udacity       canary-v2-7b4d74dcb9-rrgfh    1/1     Running   0          115s
+udacity       hello-world-c57f59b87-bv5kd   1/1     Running   0          49m
